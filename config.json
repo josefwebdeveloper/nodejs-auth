@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://josef:josef1900@ds147926.mlab.com:47926/user-auth",
+    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+}
